@@ -1,8 +1,8 @@
 .panda-card{
-    border: 0;
+    border: 0!important;
 }
 .panda-card-footer{
-    background-color: #fdfbfb77;
+    background-color: #fdfbfb77 !important;
     border: 0;
 }
 .categories img{
